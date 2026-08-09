@@ -40,9 +40,9 @@ My journey from investigating financial anomalies at scale to building enterpris
  
 ## Certifications
 <div>
-<a href=" https://www.credly.com/badges/33a9a9be-824d-4d1e-9cf6-fc321c1bb40b/public_url"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href=" https://www.credly.com/badges/d32d54c5-5467-42eb-b8ae-46252fd1aba5/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href=" https://www.credly.com/badges/59c565e9-cd24-4e79-a5e3-ea07f8ad0345"><img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/33a9a9be-824d-4d1e-9cf6-fc321c1bb40b/public_url"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/d32d54c5-5467-42eb-b8ae-46252fd1aba5/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/59c565e9-cd24-4e79-a5e3-ea07f8ad0345"><img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
 *Currently pursuing: Red Hat Certified System Administrator (RHCSA)*
  
