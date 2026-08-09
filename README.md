@@ -7,13 +7,13 @@ Hi there! For over 15 years, I worked in Anti-Money Laundering (AML) compliance,
 My journey from investigating financial anomalies at scale to building enterprise homelabs has fueled my passion for technical cybersecurity. I am actively seeking roles in a Security Operations Center (SOC) or Identity and Access Management (IAM) engineering, where I can leverage my hands-on experience with pfSense, Wazuh, and Microsoft Sentinel to detect, analyze, and mitigate advanced threats.
  
 ## Skills
-| Skill                                         | Associated Project                                                                     |
-|-----------------------------------------------|----------------------------------------------------------------------------------------|
-| Network Routing & Firewall Configuration      | <a href="https://github.com/morolakeb/https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>     |
-| Scripting & Backup Automation                 | <a href="https://github.com/morolakeb/https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>     |
-| Cloud Security & Threat Monitoring            | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                  |
-| SIEM Implementation and Log Analysis          | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                  |
-| Active Directory & Virtualization             | <!-- <a href="#">Enterprise Homelab</a> --> *Documentation Pending*                    |
+| Skill                                         | Associated Project                                                                                                   |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Network Routing & Firewall Configuration      | <a href="https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>                   |
+| Scripting & Backup Automation                 | <a href="https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>                   |
+| Cloud Security & Threat Monitoring            | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                                                |
+| SIEM Implementation and Log Analysis          | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                                                |
+| Active Directory & Virtualization             | <!-- <a href="#">Enterprise Homelab</a> --> *Documentation Pending*                                                  |
  
 ## Tools
  
