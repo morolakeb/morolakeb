@@ -8,13 +8,13 @@ Hey there! I have over 15 years of experience in Anti-Money Laundering (AML) com
 Financial anomalies at scale led me to build enterprise homelabs, fueling my passion for **Governance, Risk & Compliance (GRC)**. I am currently seeking IT Governance and Cloud Security roles where I can apply my hands-on experience with Microsoft 365, Azure, and Microsoft Sentinel to develop, implement, and enforce effective security policies.
  
 ## Skills
-| Skill                                         | Associated Project                                                                                                   |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Network Routing & Firewall Configuration      | <a href="https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>                   |
-| Scripting & Backup Automation                 | <a href="https://github.com/morolakeb/homelab-configs/tree/main/pfsense">pfSense Configuration</a>                   |
-| Cloud Security & Threat Monitoring            | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                                                |
-| SIEM Implementation and Log Analysis          | <!-- <a href="#">Multi-Cloud Honeypot</a> --> *Documentation Pending*                                                |
-| Active Directory & Virtualization             | <!-- <a href="#">Enterprise Homelab</a> --> *Documentation Pending*                                                  |
+| Skill | Associated Project |
+| :--- | :--- |
+| Network Routing & Firewall Configuration | [pfSense Configuration](https://github.com/morolakeb/homelab-configs) |
+| Scripting & Backup Automation | [pfSense Configuration](https://github.com/morolakeb/homelab-configs) |
+| Cloud Security & Threat Monitoring | [Enterprise GRC Portfolio](https://github.com/morolakeb/GRC-portfolio) |
+| SIEM Implementation and Log Analysis | *Documentation Pending* |
+| Active Directory & Virtualization | *Documentation Pending* |
  
 ## Tools
  
