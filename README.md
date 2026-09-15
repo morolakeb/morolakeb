@@ -14,7 +14,7 @@ Financial anomalies at scale led me to build enterprise homelabs, fueling my pas
 | Scripting & Backup Automation | [pfSense Configuration](https://github.com/morolakeb/homelab-configs) |
 | Cloud Security & Threat Monitoring | [Enterprise GRC Portfolio](https://github.com/morolakeb/GRC-portfolio) |
 | SIEM Implementation and Log Analysis | *Documentation Pending* |
-| Active Directory & Virtualization | *Documentation Pending* |
+| Active Directory & Virtualization | [IAM Governance Architecture](https://github.com/morolakeb/GRC-portfolio/blob/main/Bolarinwa_IAM_Governance_Architecture.pdf) |
  
 ## Tools
  
