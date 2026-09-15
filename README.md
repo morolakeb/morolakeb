@@ -2,10 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morolakebolarinwa)
 
-Hi there! For over 15 years, I worked in Anti-Money Laundering (AML) compliance, serving as a "human anomaly detector" to track down complex financial trails. After earning my MBA in Cybersecurity Management, I realized my true passion lies at the intersection of technical security architecture and enterprise risk management. Today, I build comprehensive governance frameworks (NIST, ISO 27001) and enforce them through hands-on cloud configurations.
+Hey there! I have over 15 years of experience in Anti-Money Laundering (AML) compliance, using my skills as a “human anomaly detector” to track the complicated financial trails. Upon graduating with an MBA in Cybersecurity Management, I realized my real passion is at the intersection of technical security architecture and enterprise risk management. Now I build full governance frameworks ( NIST, ISO 27001) and enforce them with hands-on cloud configurations.
 
 ### Objective
-My journey from investigating financial anomalies at scale to building enterprise homelabs has fueled my passion for **Governance, Risk, and Compliance (GRC)**. I am actively seeking IT Governance and Cloud Security roles where I can leverage my hands-on experience with Microsoft 365, Azure, and Microsoft Sentinel to design, implement, and enforce practical security policies.
+Financial anomalies at scale led me to build enterprise homelabs, fueling my passion for **Governance, Risk & Compliance (GRC)**. I am currently seeking IT Governance and Cloud Security roles where I can apply my hands-on experience with Microsoft 365, Azure, and Microsoft Sentinel to develop, implement, and enforce effective security policies.
  
 ## Skills
 | Skill                                         | Associated Project                                                                                                   |
