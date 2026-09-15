@@ -1,10 +1,11 @@
 # Hello, I'm Morolake
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
-Hi there! For over 15 years, I worked in Anti-Money Laundering (AML) compliance, serving as a "human anomaly detector" to track down complex financial trails. After earning my MBA in Cybersecurity Management, I realized my true passion lies in the technical trenches of network defense. Today, I've traded financial ledgers for firewall logs. I love applying my investigative mindset to building homelabs, configuring enterprise environments, and hunting for advanced threats.
- 
-## Objective
-My journey from investigating financial anomalies at scale to building enterprise homelabs has fueled my passion for technical cybersecurity. I am actively seeking roles in a Security Operations Center (SOC) or Identity and Access Management (IAM) engineering, where I can leverage my hands-on experience with pfSense, Wazuh, and Microsoft Sentinel to detect, analyze, and mitigate advanced threats.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morolakebolarinwa)
+
+Hi there! For over 15 years, I worked in Anti-Money Laundering (AML) compliance, serving as a "human anomaly detector" to track down complex financial trails. After earning my MBA in Cybersecurity Management, I realized my true passion lies at the intersection of technical security architecture and enterprise risk management. Today, I build comprehensive governance frameworks (NIST, ISO 27001) and enforce them through hands-on cloud configurations.
+
+### Objective
+My journey from investigating financial anomalies at scale to building enterprise homelabs has fueled my passion for **Governance, Risk, and Compliance (GRC)**. I am actively seeking IT Governance and Cloud Security roles where I can leverage my hands-on experience with Microsoft 365, Azure, and Microsoft Sentinel to design, implement, and enforce practical security policies.
  
 ## Skills
 | Skill                                         | Associated Project                                                                                                   |
@@ -45,9 +46,8 @@ My journey from investigating financial anomalies at scale to building enterpris
 <a href="https://www.credly.com/badges/59c565e9-cd24-4e79-a5e3-ea07f8ad0345"><img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
 *Currently pursuing: Red Hat Certified System Administrator (RHCSA)*
- 
-## Projects
-- **pfSense Configuration & Backup Repository:** Designed, managed, and tracked configuration backups for a local pfSense firewall deployment to demonstrate practical network engineering workflows.
-- 🚧 **In Progress: Wazuh SIEM Deployment:** Currently re-architecting and deploying a local Wazuh environment from scratch to establish robust endpoint threat detection and log analysis.
-- <!-- **Enterprise Homelab:** Designed and deployed a local enterprise environment utilizing VMware Workstation Pro, Windows Server 2022, Active Directory, and various Linux distributions (RHEL, AlmaLinux). -->
-- <!-- **Multi-Cloud Honeypot:** Engineered a four-week multi-cloud honeypot architecture across AWS and Azure, integrated with Microsoft Sentinel for live threat monitoring and analysis. -->
+
+### Projects
+* 📋 **[Enterprise GRC Portfolio](https://github.com/morolakeb/GRC-portfolio):** Authored comprehensive Cloud Risk Registers, ISO 27001 Baseline Gap Analyses, and automated Data Loss Prevention (DLP) Implementation Strategies using Microsoft Purview.
+* 🛡️ **[pfSense Configuration & Backup](https://github.com/morolakeb/homelab-configs):** Designed, managed, and tracked configuration backups for a local pfSense firewall deployment to demonstrate practical network engineering workflows.
+* 🔍 **[Wazuh SIEM Deployment](https://github.com/morolakeb/homelab-configs):** Currently re-architecting and deploying a local Wazuh environment from scratch to establish robust endpoint threat detection and log analysis.
